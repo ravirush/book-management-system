@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{B6684AA6-433C-457A-8209-12654536E329}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BackendAPI/Program.cs">
+    <Files>
+      <File FileName="BackendAPI/Controllers/BooksController.cs" Line="1" Column="1" />
+      <File FileName="BackendAPI/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BackendAPI" expanded="True">
+            <Node name="BackendAPI">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BackendAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravinduaththanayaka/Desktop/BookManagementSystem/BackendAPI/BackendAPI/Controllers/BooksController.cs" relfile="BackendAPI/Controllers/BooksController.cs" line="33" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
